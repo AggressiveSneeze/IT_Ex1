@@ -1,0 +1,27 @@
+body {
+    background-color: #3399CC;
+}
+
+#login {
+	display:inline-block;
+    margin-left:20em;
+    /*border-style:solid; */   
+}
+#login input {
+	border-style: solid;
+}
+
+#name {
+	text-decoration: underline;
+	font-size: 180%;
+	color: white;
+}
+
+#info {	
+	color: white;
+
+}
+
+table {
+	color:white;
+}
